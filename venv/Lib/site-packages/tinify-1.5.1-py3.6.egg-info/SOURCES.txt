@@ -1,0 +1,15 @@
+setup.cfg
+setup.py
+tinify/__init__.py
+tinify/client.py
+tinify/errors.py
+tinify/result.py
+tinify/result_meta.py
+tinify/source.py
+tinify/version.py
+tinify.egg-info/PKG-INFO
+tinify.egg-info/SOURCES.txt
+tinify.egg-info/dependency_links.txt
+tinify.egg-info/requires.txt
+tinify.egg-info/top_level.txt
+tinify/data/cacert.pem
